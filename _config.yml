@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills
-    layout: text
+    layout: top-middle
     content: | # this will include new lines to allow paragraphs
       Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends
       
