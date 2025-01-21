@@ -59,12 +59,17 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      DDD, Clean Architecture, Micro Frontends
+      Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends
+      
       NgRx, Elf, State Machines, Event sourcing
-      PWA, Service Workers, Web Components
+      
+      <mark>PWA</mark>, Service Workers, Web Components
+      
       CI/CD, IaC, E2E, Component Testing
-      Design Systems, Atomic Designs, Rive, SVG 
-      .NET, Node, DevOps, IAM, Infrastructure as Code
+      
+      Design Systems, <mark>Atomic Designs</mark>, Rive, SVG 
+      
+      .NET, Node, <mark>DevOps</mark>, IAM, Infrastructure as Code
 
   - title: Projekte & Erfahrungen # Title for the section
     layout: list # Type of content section (list/text)
