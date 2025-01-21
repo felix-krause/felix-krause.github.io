@@ -48,18 +48,23 @@ youtube_username: felix-krause-k8n
 about_title: Profil
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Felix arbeitet seit August 2024 als Senior Software Engineer bei ELCA, mit Fokus auf <mark>.NET</mark> und <mark>Angular</mark>. Er genießt es, komplexe Software zu entwerfen und umzusetzen, um großartige Ergebnisse zu erzielen. Seine Fähigkeit, neue Technologien schnell zu erlernen, macht ihn zu einem flexiblen und vielseitigen Teammitglied. Seine analytischen Fähigkeiten sind besonders wertvoll bei der Bewältigung herausfordernder Projektthemen.
+  Felix arbeitet seit August 2024 als Senior Software Engineer und aufstrebender Frontend Architekt bei ELCA, mit Fokus auf <mark>Angular</mark> und <mark>.NET</mark>. Er genießt es, komplexe Software zu entwerfen und umzusetzen, um großartige Ergebnisse zu erzielen. Seine vielseitigen Kenntnisse in neuen Technologien sowie seine analytischen Fähigkeiten sind besonders wertvoll bei der Bewältigung herausfordernder Projektthemen.
 
-  Er ist ein erfahrener Frontend-Entwickler der es liebt grafische Benutzeroberflächen mit starkem Fokus auf <mark>Responsive Design</mark>, <mark>User Experience</mark> und <mark>Accessibility</mark> zu implementieren. Er hat das Auge und das Wissen, jeder Anwendung die zusätzliche Innovation zu verleihen, um ein echter Game-Changer zu sein. Sein Mathematik-Diplom und seine Erfahrung als ehemaliger Datenanalyst und aktueller Datenvisualisierungsexperte machen ihn zu einer wertvollen Ergänzung für jedes Projekt, das fortschrittliche Diagramme und Infografiken benötigt.
+  Als Frontend-Entwickler liebt er es, grafische Benutzeroberflächen mit starkem Fokus auf <mark>Responsive Design</mark>, <mark>User Experience</mark> und <mark>Accessibility</mark> zu implementieren. Dies zeigt sich in innovativen, reaktionsschnellen und leicht bedienbaren Anforderungen am Puls der Zeit. Sein Mathematik-Diplom und seine Erfahrung als Datenanalyst machen ihn in Zeiten von AI-driven Frontends (NLP, Function Calling, Personalisierung, u.v.m.) zu einem Vorreiter in seiner Rolle.
 
-  Felix schätzt einen gut organisierten Arbeitsplatz, sowie professionelle Toolchains und Kollegen. Daher ist er aktiv an der Erstellung von Best Practices für das Web Competence Center bei ELCA beteiligt. Als erfahrener Entwickler mit Einblicken in die Leitung kleiner agiler Teams bringt er diese Werte in jedes Projekt ein, an dem er beteiligt ist.
-  Als <mark>SCRUM-Enthusiast</mark> und lebenslanger Lerner freut er sich, seine Leidenschaft durch das Erlangen von Zertifikaten und der Teilnahme an Schulungen bald offiziell untermauern zu dürfen.
+  Felix schätzt einen gut organisierten Arbeitsplatz, sowie professionelle Toolchains und Kollegen. Er aktiv im Web Competence Center bei ELCA beteiligt. Als erfahrener Entwickler mit Einblicken in die Leitung kleiner agiler Teams bringt er diese Werte in jedes Projekt ein, an dem er beteiligt ist.
+  Felix ist <mark>SCRUM-Enthusiast</mark> mit Erfahrung sowohl als Lead Dev als auch Scrum Master. Als lebenslanger Lerner freut er sich über sein aktuelles Zertifikatsstudium and der <mark>Fernuniversität Hagen</mark> in Wirtschaftswissenschaften. 
 
 content:
-  #   - title: Skills
-  #     layout: text
-  #     content: | # this will include new lines to allow paragraphs
-  #       Angular, .NET, HTML5, CSS3 (SCSS/LESS), Javascript (Typescript), SVG (d3, SMIL), SQL (PostGreSQL), Docker, IAM, Azure DevOps, Github Actions
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      DDD, Clean Architecture, Micro Frontends
+      NgRx, Elf, State Machines, Event sourcing
+      PWA, Service Workers, Web Components
+      CI/CD, IaC, E2E, Component Testing
+      Design Systems, Atomic Designs, Rive, SVG 
+      .NET, Node, DevOps, IAM, Infrastructure as Code
 
   - title: Projekte & Erfahrungen # Title for the section
     layout: list # Type of content section (list/text)
@@ -73,7 +78,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Research & Development, Trainings und Reviews in verschiedenen internen und Kundenprojekten. 
 
-          Dabei wird von Scaffolding & Projektsetup über Cloud-Engineering bis zum Feinschliff des fertigen Releases seine Expertise benötigt.
+          Dabei wird von Scaffolding & Projektsetup über Cloud-Engineering (IaC) bis zum Feinschliff des fertigen Releases seine Expertise benötigt.
       - layout: left
         title: EBG
         link: https://www.ebg.admin.ch/
