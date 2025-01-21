@@ -57,19 +57,21 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
   - title: Skills
-    layout: top
-    content: | # this will include new lines to allow paragraphs
-      Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends
+    layout: list
+    content: 
+      - layout: top
+        description: | # this will include new lines to allow paragraphs
+          Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends
       
-      NgRx, Elf, State Machines, Event sourcing
+          NgRx, Elf, State Machines, Event sourcing
       
-      <mark>PWA</mark>, Service Workers, Web Components
+          <mark>PWA</mark>, Service Workers, Web Components
       
-      CI/CD, IaC, E2E, Component Testing
+          CI/CD, IaC, E2E, Component Testing
       
-      Design Systems, <mark>Atomic Designs</mark>, Rive, SVG 
+          Design Systems, <mark>Atomic Designs</mark>, Rive, SVG 
       
-      .NET, Node, <mark>DevOps</mark>, IAM, Infrastructure as Code
+          .NET, Node, <mark>DevOps</mark>, IAM, Infrastructure as Code
 
   - title: Projekte & Erfahrungen # Title for the section
     layout: list # Type of content section (list/text)
