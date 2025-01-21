@@ -64,14 +64,18 @@ content:
           Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends
       
           NgRx, Elf, State Machines, Event sourcing
+
+          <mark>Angular</mark>, React, Vite, webpack
       
           <mark>PWA</mark>, Service Workers, Web Components
       
           CI/CD, IaC, E2E, Component Testing
       
-          Design Systems, <mark>Atomic Designs</mark>, Rive, SVG 
+          Design Systems, <mark>Atomic Designs</mark>, Rive 
       
           .NET, Node, <mark>DevOps</mark>, IAM, Infrastructure as Code
+
+          Unity, Pixi, d3, p5
 
   - title: Projekte & Erfahrungen # Title for the section
     layout: list # Type of content section (list/text)
