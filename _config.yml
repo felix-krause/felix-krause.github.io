@@ -48,12 +48,20 @@ youtube_username: felix-krause-k8n
 about_title: Profil
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Felix arbeitet seit August 2024 als Senior Software Engineer und aufstrebender Frontend Architekt bei ELCA, mit Fokus auf <mark>Angular</mark> und <mark>.NET</mark>. Er genießt es, komplexe Software zu entwerfen und umzusetzen, um großartige Ergebnisse zu erzielen. Seine vielseitigen Kenntnisse in neuen Technologien sowie seine analytischen Fähigkeiten sind besonders wertvoll bei der Bewältigung herausfordernder Projektthemen.
+  Felix arbeitet seit August 2024 als Senior Software Engineer und aufstrebender Frontend Architekt bei ELCA, mit Fokus auf <mark>Angular</mark> und <mark>.NET</mark>. 
+  Er genießt es, komplexe Software zu entwerfen und umzusetzen, um großartige Ergebnisse zu erzielen. 
+  Seine vielseitigen Kenntnisse in neuen Technologien sowie seine analytischen Fähigkeiten sind besonders wertvoll bei der Bewältigung herausfordernder Projektthemen.
 
-  Als Frontend-Entwickler liebt er es, grafische Benutzeroberflächen mit starkem Fokus auf <mark>Responsive Design</mark>, <mark>User Experience</mark> und <mark>Accessibility</mark> zu implementieren. Dies zeigt sich in innovativen, reaktionsschnellen und leicht bedienbaren Anforderungen am Puls der Zeit. Sein Mathematik-Diplom und seine Erfahrung als Datenanalyst machen ihn in Zeiten von AI-driven Frontends (NLP, Function Calling, Personalisierung, u.v.m.) zu einem Vorreiter in seiner Rolle.
+  Als Frontend-Entwickler liebt er es, grafische Benutzeroberflächen mit starkem Fokus auf <mark>Responsive Design</mark>, <mark>User Experience</mark> und <mark>Accessibility</mark> zu implementieren. 
+  Dies zeigt sich in innovativen, reaktionsschnellen und leicht bedienbaren Applikationen am Puls der Zeit. 
+  Seine Kenntnisse in modernen Technologien machen ihn in Zeiten von AI-driven Development und AI-empowered User Experiences zu einem wertvollen Tech Lead.
+  Als <mark>DevOps-Spezialist</mark> und Cloud-Engineer bringt er seine Lösungen auf alle gängigen Plattformen und stellt sicher, dass sie geschützt, skalierbar und langfristig wartbar sind.
 
-  Felix schätzt einen gut organisierten Arbeitsplatz, sowie professionelle Toolchains und Kollegen. Er aktiv im Web Competence Center bei ELCA beteiligt. Als erfahrener Entwickler mit Einblicken in die Leitung kleiner agiler Teams bringt er diese Werte in jedes Projekt ein, an dem er beteiligt ist.
-  Felix ist <mark>SCRUM-Enthusiast</mark> mit Erfahrung sowohl als Lead Dev als auch Scrum Master. Als lebenslanger Lerner freut er sich über sein aktuelles Zertifikatsstudium and der <mark>Fernuniversität Hagen</mark> in Wirtschaftswissenschaften. 
+  Felix schätzt einen gut organisierten Arbeitsplatz, sowie professionelle Kollegen und Toolchains. 
+  Er ist aktiv im Web Competence Center bei ELCA beteiligt, wo er sich für Best Practices und Clean Coding in alle Firmenbereichen einsetzt.
+  Als erfahrener Entwickler mit Einblicken in die Leitung kleiner agiler Teams bringt er diese Werte in jedes Projekt ein, an dem er beteiligt ist.
+  Felix ist <mark>SCRUM-Enthusiast</mark> mit viel Erfahrung sowohl als Lead Dev als auch Scrum Master. 
+  Als lebenslanger Lerner freut er sich über sein aktuelles Zertifikatsstudium in <mark>Wirtschaftswissenschaften</mark>. 
 
 content:
   - title: Skills
@@ -62,13 +70,17 @@ content:
       - layout: top-middle
         quote: > # this will include new lines to allow paragraphs
           Domain Driven Design, <mark>Clean Architecture</mark>, Micro Frontends, 
-          NgRx, Elf, State Machines, Event sourcing, 
-          <mark>Angular</mark>, React, Vite, webpack, 
-          <mark>PWA</mark>, Service Workers, Web Components, 
-          CI/CD, IaC, E2E, Component Testing, 
-          Design Systems, <mark>Atomic Designs</mark>, Rive, 
-          .NET, Node, <mark>DevOps</mark>, IAM, Infrastructure as Code, 
-          Unity, Pixi, d3, p5
+          <mark>Angular</mark>, RxJs, React, Vite, webpack, 
+          NgRx, Elf, State Machines,
+          <mark>PWA</mark>, Service Workers, 
+          
+          <mark>DevOps</mark>, IAM, Infrastructure as Code, 
+          CI/CD, k8s, Flux, Azure DevOps, Github, Jenkins, 
+          AWS, Openshift, GCP, Cloud Foundry
+          
+          <mark>Test Engineering</mark>, Automated E2E Testing, Component Testing, 
+          Design Systems, <mark>Atomic Designs</mark>, Web Components, Rive, 
+          .NET, Node.js, Unity, Pixi, d3, p5
 
   - title: Projekte & Erfahrungen # Title for the section
     layout: list # Type of content section (list/text)
@@ -172,9 +184,10 @@ content:
   - title: Persönliche Vorlieben
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Felix geht seinen Interesse im Software Engineering auch nach seiner Arbeit nach, wie zahlreiche private Projekte zeigen.
-      Falls er dennoch etwas Zeit findet, geht er gerne fernab von jeder Autobahn oder Zuglinie wandern, spielt gerne uralte oder brandneue Brettspiele und macht [Musik](https://youtu.be/4hN3P9NMQLs).
-      Felix trink lieber Tee als Kaffee, trinkt sein Wasser lieber mit Sprudel als ohne und liebt sowohl Hunde als auch Katzen.
+      Felix geht seinen Interesse im Software Engineering oft auch privat nach.
+      Seine ständige Begleiterin dabei ist seine Katze, die dabei auf einer selbstentwickelten Tastaturabdeckung schläft.
+      Falls er daneben etwas Zeit findet, geht er gerne fernab von jeder Autobahn oder Zuglinie wandern, spielt gerne uralte und brandneue Brettspiele und macht [Musik](https://youtu.be/4hN3P9NMQLs).
+      Felix trink lieber Tee als Kaffee, trinkt sein Wasser lieber mit Sprudel als ohne und isst lieber Pizza als Spaghetti.
 
 # Footer
 footer_show_references: true
