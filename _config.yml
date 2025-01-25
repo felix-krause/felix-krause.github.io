@@ -114,7 +114,7 @@ content:
         sub_title: Fullstack Developer
         caption: März 2020 - August 2022
         description: | # this will include new lines to allow paragraphs
-          Als Teil eines festen SCRUM Teams wurde eine cloudbasierte Neuentwicklung eines Sitzungsverwaltungstool für den Bundesrat, in dem Sitzungen geplant, vorbereitet und protokolliert werden können, umgesetzt. Wegen der beschleunigten Digitalisierung durch Covid-19 wurden zahlreiche weitere Apps umgesetzt. 
+          Als Teil eines festen SCRUM Teams wurde eine cloudbasierte Neuentwicklung eines Sitzungsverwaltungstools für den Bundesrat, in dem Sitzungen geplant, vorbereitet und protokolliert werden können, umgesetzt. Wegen der beschleunigten Digitalisierung durch Covid-19 wurden zahlreiche weitere Apps erfolgreich entwickelt. 
 
           **Webprojekt-Link:**  https://www.staatskalender.admin.ch/home
       - layout: left
@@ -140,7 +140,7 @@ content:
         sub_title: IT Consultant
         caption: Februar 2016 - März 2017
         description: | # this will include new lines to allow paragraphs
-          Vollintegrierte Industrie 4.0 Softwarelösung. Durch die Benutzung von Robotorprogrammiersprachen, QR Codes, Kamerasystem und Scannern konnten Teile und Produkte zu jedem Zeitpunkt automatisiert verfolgt werden.
+          Vollintegrierte Industrie 4.0 Softwarelösung. Durch die Benutzung von Roboterprogrammiersprachen, QR Codes, Kamerasystem und Scannern konnten Teile und Produkte zu jedem Zeitpunkt automatisiert verfolgt werden.
       - layout: left
         title: Frühere Anstellungen
         sub_title: IT Consultant
@@ -175,19 +175,19 @@ content:
         caption: 2006 - 2011
         sub_title: Dipl. Math.
         quote: >
-          Die OTH Regensburg ist eine der forschungsstärksten Hochschulen für angewandte Wissenschaften in Bayern
+          Die OTH Regensburg ist eine der forschungsstärksten Hochschulen für angewandte Wissenschaften in Bayern.
         description: | # this will include new lines to allow paragraphs
-          Während seiner Zeit in Regensburg lernte Felix neben der angewandten Mathematik viele Skills die er noch heute im Beruflichen Alltag benötigt, wie Teamwork und Zeitmanagement.
+          Während seiner Zeit in Regensburg lernte Felix neben der angewandten Mathematik viele Skills die er noch heute im beruflichen Alltag benötigt, wie Teamwork und Zeitmanagement.
 
           Als Mathematik-Tutor für Ingenieurswissenschaften konnte er früh lernen wie erfüllend es sein kann, Wissen zu teilen.
 
   - title: Persönliche Vorlieben
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Felix geht seinen Interesse im Software Engineering oft auch privat nach.
+      Felix geht seinem Interesse im Software Engineering oft auch privat nach.
       Seine ständige Begleiterin dabei ist seine Katze, die dabei auf einer selbstentwickelten Tastaturabdeckung schläft.
       Falls er daneben etwas Zeit findet, geht er gerne fernab von jeder Autobahn oder Zuglinie wandern, spielt gerne uralte und brandneue Brettspiele und macht [Musik](https://youtu.be/4hN3P9NMQLs).
-      Felix trink lieber Tee als Kaffee, trinkt sein Wasser lieber mit Sprudel als ohne und isst lieber Pizza als Spaghetti.
+      Felix trinkt lieber Tee als Kaffee, trinkt sein Wasser lieber mit Sprudel als ohne und isst lieber Pizza als Spaghetti.
 
 # Footer
 footer_show_references: true
