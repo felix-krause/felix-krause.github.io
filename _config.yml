@@ -22,10 +22,10 @@ github_username: felix-krause
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: felix-krause-858695193
+# linkedin_username: felix-krause-858695193
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: felix-krause-k8n
+# youtube_username: felix-krause-k8n
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -86,15 +86,21 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: VHS
+        sub_title: IT Trainer
+        caption: August 2025 - Heute
+        description: | # this will include new lines to allow paragraphs
+          Vorbereitung und Durchführung von Online-Seminaren 'Kunsthandwerk Programmieren' in der Erwachsenenbildung.
+      - layout: left
         title: ELCA
         link: https://www.elca.ch
         link_text: elca.ch
-        sub_title: Tech Lead, Senior Frontend Engineer, DevOps Spezialist
-        caption: August 2024 - Heute
+        sub_title: Tech Lead, Frontend Architekt, Sales Engineer
+        caption: August 2024 - Mai 2025
         description: | # this will include new lines to allow paragraphs
           Research & Development, Trainings und Reviews in verschiedenen internen und Kundenprojekten. 
 
-          Dabei wird von Scaffolding & Projektsetup über Cloud-Engineering (IaC) bis zum Feinschliff des fertigen Releases seine Expertise benötigt.
+          Vorbereitung und Durchführung von Verkaufsgesprächen in der Rolle als Experte, IT-Consulting, Business Analyse
       - layout: left
         title: EBG
         link: https://www.ebg.admin.ch/
