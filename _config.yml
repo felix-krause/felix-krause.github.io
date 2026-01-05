@@ -86,11 +86,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: VHS
-        sub_title: IT Trainer
+        title: Sabbatical
         caption: August 2025 - Heute
         description: | # this will include new lines to allow paragraphs
-          Vorbereitung und Durchführung von Online-Seminaren 'Kunsthandwerk Programmieren' in der Erwachsenenbildung.
+          Sabbatical zur persönlichen und beruflichen Neuausrichtung und Weiterbildung.
       - layout: left
         title: ELCA
         link: https://www.elca.ch
