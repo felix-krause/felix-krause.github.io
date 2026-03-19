@@ -48,21 +48,9 @@ github_username: felix-krause
 about_title: Profil
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Felix arbeitete bis August 2024 als Senior Software Engineer und Frontend Architekt bei ELCA, mit Fokus auf <mark>Angular</mark> und <mark>.NET</mark>. 
-  Er genießt es, komplexe Software zu entwerfen und umzusetzen, um großartige Ergebnisse zu erzielen. 
-  Seine vielseitigen Kenntnisse in neuen Technologien sowie seine analytischen Fähigkeiten sind besonders wertvoll bei der Bewältigung herausfordernder Projektthemen.
-
-  Als Frontend-Experte liebt er es, grafische Benutzeroberflächen mit starkem Fokus auf <mark>Responsive Design</mark>, <mark>User Experience</mark> und <mark>Accessibility</mark> zu implementieren. 
-  Dies zeigt sich in innovativen, reaktionsschnellen und leicht bedienbaren Applikationen am Puls der Zeit. 
-  Seine Kenntnisse in modernen Technologien machen ihn in Zeiten von AI-driven Development und AI-empowered User Experiences zu einem wertvollen Tech Lead.
-  Als <mark>DevOps-Spezialist</mark> und Cloud-Engineer bringt er seine Lösungen auf alle gängigen Plattformen und stellt sicher, dass sie geschützt, skalierbar und langfristig wartbar sind.
-
-  Felix schätzt einen gut organisierten Arbeitsplatz, sowie professionelle Kollegen und Toolchains. 
-  Er war aktiv im Web Competence Center bei ELCA beteiligt, wo er sich für Best Practices und Clean Coding in allen Firmenbereichen einsetzte.
-  Als erfahrener Entwickler mit Kompetenzen in der Leitung agiler Teams brachte er diese Werte in jedes Projekt ein, an dem er sich beteiligte.
+  Senior Frontend Engineer mit Fokus auf barrierefreie und nutzerzentrierte Webanwendungen. Breite Erfahrung in React, Angular und .NET, dazu Consulting-Hintergrund und tiefes Verständnis für Requirements Engineering und DevOps-Pipelines. 
   
-  Im Online-Seminar 'Kunsthandwerk Programmieren' wird er seine Fähigkeiten und Skills in der Web- und Appentwicklung in der Erwachsenenbildung teilen. Als Reminiszenz an das Programmieren von vor 20 Jahren lernen wird Interessierten der Weg von der Idee bis zur App als Hobby oder Solo-Dev nähergebracht.
-
+  Ich übersetze zwischen Fachseite und Technik und sorge dafür, dass Lösungen nicht nur funktionieren, sondern für alle nutzbar sind.
 content:
   - title: Skills
     layout: list
