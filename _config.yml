@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Felix Krause
-title: Software Architect
+title: Senior Technical BizDevOps Consultant
 email: felix.s.krause@icloud.com
 website: www.github.com/felix-krause
 
@@ -48,9 +48,9 @@ github_username: felix-krause
 about_title: Profil
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Senior Frontend Engineer mit Fokus auf barrierefreie und nutzerzentrierte Webanwendungen. Breite Erfahrung in React, Angular und .NET, dazu Consulting-Hintergrund und tiefes Verständnis für Requirements Engineering und DevOps-Pipelines. 
+  Als Technical Consultant bringe ich über 10 Jahre Erfahrung in der Entwicklung und Architektur komplexer Webanwendungen mit. Mein technisches Fundament bilden <mark>.NET/C#</mark> und moderne <mark>Frontend-Frameworks (React, Angular)</mark>, ergänzt durch tiefes Verständnis für <mark>CI/CD-Pipelines, Build-Optimierung und Deployment-Automatisierung</mark>. In meiner letzten Rolle als Lead Developer und Software Architect habe ich agile Entwicklungsteams geführt, kritische Features selbst umgesetzt und dabei stets Wert auf <mark>nachhaltige Architektur, Barrierefreiheit (AX) und benutzerzentrierte Gestaltung (UX)</mark> gelegt. 
   
-  Ich übersetze zwischen Fachseite und Technik und sorge dafür, dass Lösungen nicht nur funktionieren, sondern für alle nutzbar sind.
+  Ich bin es gewohnt, nicht nur zu konzipieren, sondern auch zu liefern – und verstehe die gesamte Delivery-Pipeline von der IDE bis zur Produktion.
 content:
   - title: Skills
     layout: list
